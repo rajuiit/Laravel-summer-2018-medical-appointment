@@ -1,0 +1,5 @@
+[05-Oct-2019 08:52:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proconfl/public_html/student/medical/contact.php on line 7
+[05-Oct-2019 08:54:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proconfl/public_html/student/medical/contact.php on line 7
+[05-Oct-2019 08:54:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/student/medical/contact.php on line 19
+[05-Oct-2019 08:54:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proconfl/public_html/student/medical/contact.php on line 7
+[05-Oct-2019 08:54:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/student/medical/contact.php on line 19
